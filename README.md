@@ -33,3 +33,5 @@ All 5 servo **GND (black/brown)** wires → external supply GND, **and** that GN
 - – → **GND**
 
 ###
+
+![Screenshot](Screenshot_2026-08-04-21-39-17-64_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
